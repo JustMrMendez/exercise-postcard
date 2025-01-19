@@ -6,7 +6,7 @@ Who does not like postcards? This is one of your first exercises (if not the fir
 
 Let's create a postcard with HTML5 and CSS, and then you can share it with your mom or your other half; they will be proud! :)
 
-## 🌱  How to start this project?
+## 🌱  How to start this project?sdfsdf 
 
 1. Make sure you have a Github account at:  https://github.com
 2. We recommend opening this repository using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively, you can clone it on your local computer using the `git clone` command. 
